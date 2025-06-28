@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/aakash-neeli-7224462bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I'm a Computer Science student with a deep passion for Generative AI. I specialize in building intelligent and autonomous systems, from sophisticated agentic workflows to multimodal applications that bridge the gap between language and vision. I enjoy architecting and optimizing AI solutions, with a strong focus on Retrieval-Augmented Generation (RAG), LLM fine-tuning, and creating scalable data pipelines.
+I'm a Computer Science student with a deep passion for Generative AI. I specialize in building intelligent and autonomous systems, from sophisticated agentic workflows to multimodal applications that bridge the gap between language and vision. I enjoy architecting and optimizing AI solutions, with a strong focus on Retrieval-Augmented Generation (RAG), LLM fine-tuning.
 
 ---
 
